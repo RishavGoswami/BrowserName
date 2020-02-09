@@ -1,0 +1,23 @@
+{
+  "name": "browser-name",
+  "version": "1.0.0",
+  "description": "Get the name of the browser you're using.",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishavGoswami/FlattenArray.git"
+  },
+  "keywords": [
+    "npm",
+    "browser",
+    "browser-type",
+    "check-browser",
+    "browser-name"
+  ],
+  "author": "Rishav Goswami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RishavGoswami/FlattenArray/issues"
+  },
+  "homepage": "https://github.com/RishavGoswami/FlattenArray#readme"
+}
