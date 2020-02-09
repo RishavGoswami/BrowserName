@@ -5,7 +5,7 @@
   "main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RishavGoswami/FlattenArray.git"
+    "url": "git+https://github.com/RishavGoswami/BrowserName.git"
   },
   "keywords": [
     "npm",
@@ -17,7 +17,7 @@
   "author": "Rishav Goswami",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RishavGoswami/FlattenArray/issues"
+    "url": "https://github.com/RishavGoswami/BrowserName/issues"
   },
-  "homepage": "https://github.com/RishavGoswami/FlattenArray#readme"
+  "homepage": "https://github.com/RishavGoswami/BrowserName#readme"
 }
